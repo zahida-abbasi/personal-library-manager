@@ -1,0 +1,3 @@
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.2
+sqlite3>=2.6.0  # Usually included in Python standard library
